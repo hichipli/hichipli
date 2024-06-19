@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Hongming (Chip) Li, a Ph.D. student specializi
 - 👯 I’m looking to collaborate on research involving educational technology, AI in education, and human-computer interaction.
 - 🤔 I’m looking for help with refining AI models to ensure equity and fairness in educational applications.
 - 💬 Ask me about learning analytics, educational data mining, and instructional design.
-- 📫 How to reach me: hli3@ufl.edu | [My Website](https://www.hongmingli.com/) | [My LinkedIn](https://www.linkedin.com/in/hichipli)
+- 📫 How to reach me: hli3@ufl.edu | [My Website](https://www.hongmingli.com/) | [My LinkedIn](https://www.linkedin.com/in/chipli)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new educational technologies and their potential to transform teaching and learning experiences.
 

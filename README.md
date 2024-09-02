@@ -34,7 +34,7 @@ Python | R | SQL | PyTorch | Scikit-learn | HTML/CSS | JavaScript | Java | Adobe
 
 Got a wild idea for revolutionizing education? Want to geek out about the latest in EdTech? Or just fancy a chat about the intersection of AI and learning? I'm your guy!
 
-📧 [Email](mailto:hli3@ufl.edu) | 🌐 [Website](https://www.hongmingli.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/chipli) | 🔠 [X.com](https://X.com/hichipli)
+📧 <a href="mailto:hli3@ufl.edu" target="_blank">Email</a> | 🌐 <a href="https://www.hongmingli.com/" target="_blank" rel="noopener noreferrer">Website</a> | 💼 <a href="https://www.linkedin.com/in/chipli" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 🔠 <a href="https://X.com/hichipli" target="_blank" rel="noopener noreferrer">X.com</a>
 
 ## ⚡ Fun Fact & Final Thought
 

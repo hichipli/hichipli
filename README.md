@@ -82,7 +82,7 @@ Transforming education through AI - one algorithm at a time! As a PhD student at
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hichipli&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=hichipli&theme=dark" />
+<!-- <img src="https://github-contribution-stats.vercel.app/api/?username=hichipli&theme=dark" /> -->
 
 </div>
 

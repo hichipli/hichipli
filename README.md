@@ -74,9 +74,16 @@ Currently working on exciting projects involving:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hichipli&theme=tokyonight)](https://git.io/streak-stats)
+<!-- 添加 GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hichipli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichipli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
 [![Chip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hichipli&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hichipli&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=hichipli&theme=dark" />
 
 </div>
 

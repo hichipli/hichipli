@@ -74,14 +74,13 @@ Currently working on exciting projects involving:
 
 <div align="center">
 
-<!-- 使用官方推荐的 GitHub Streak 格式 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hichipli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichipli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   
 [![Chip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hichipli&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hichipli&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hichipli&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

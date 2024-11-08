@@ -74,8 +74,8 @@ Currently working on exciting projects involving:
 
 <div align="center">
 
-<!-- 更新 GitHub Streak URL -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=hichipli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- 使用官方推荐的 GitHub Streak 格式 -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hichipli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichipli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   

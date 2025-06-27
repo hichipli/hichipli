@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### PhD Student @ University of Florida | AI in Education Researcher
+### PhD Student @ University of Florida | AI and Education Researcher
 *Currently debugging both code and the mysteries of human learning* 🤖📚
 
 </div>
